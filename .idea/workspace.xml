@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dbe72275-6d93-46a4-a264-93d467d63b68" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/Design/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/Design/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/On the flip side/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/On the flip side/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/lesson-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/src/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/test/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/test/test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
-    </list>
+    <list default="true" id="dbe72275-6d93-46a4-a264-93d467d63b68" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,6 +58,7 @@
       <updated>1608349589793</updated>
       <workItem from="1608349591746" duration="1061000" />
       <workItem from="1608376911425" duration="9719000" />
+      <workItem from="1608450443704" duration="155000" />
     </task>
     <servers />
   </component>
