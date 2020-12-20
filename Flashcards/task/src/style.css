@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
+
+* {
+    font-family: "JetBrains Mono", Arial, sans-serif;
+    /*margin: 0;*/
+    text-align: center;
+}
+
+body {
+    /*background-image: url("https://www.killitonline.com/wp-content/uploads/2017/03/artificial-intelligence-ai-brain-machine-learning-ss-1920.jpg");*/
+    background-image: url("https://content.presspage.com/uploads/2110/1920_gettyimages-1043917898-133920.jpg?10000");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: ghostwhite;
+}
+
+/* Grid for 3x3 */
+.grid {
+    display: grid;
+    grid-template-columns: 150px 150px 150px;
+    grid-template-rows: 150px 150px 150px;
+    grid-column-gap: 25px;
+    grid-row-gap: 25px;
+    justify-content: center;
+}
+
+.cell {
+    background-color: lightblue;
+    border: 5px solid lightblue;
+    border-radius: 5%;
+    color: black;
+}
+
+#title {
+    /*background-color: indianred;*/
+    text-align: center;
+}

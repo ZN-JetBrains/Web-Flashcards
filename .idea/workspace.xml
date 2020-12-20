@@ -1,13 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dbe72275-6d93-46a4-a264-93d467d63b68" name="Default Changelist" comment="" />
+    <list default="true" id="dbe72275-6d93-46a4-a264-93d467d63b68" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flashcards/Design/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/Design/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flashcards/Setting up/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/Setting up/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flashcards/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flashcards/task/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flashcards/task/test/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/test/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1lrK5rGnqYhSXMzEAZrw6BY40al" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -18,11 +41,22 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.3" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.14.14" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
     <property name="nodejs_interpreter_path" value="$PROJECT_DIR$/../../../Program Files/nodejs/node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Flashcards/Flashcards/task/src/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -33,10 +67,23 @@
       <option name="presentableId" value="Default" />
       <updated>1608349589793</updated>
       <workItem from="1608349591746" duration="1061000" />
+      <workItem from="1608376911425" duration="4780000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
